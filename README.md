@@ -29,5 +29,3 @@ To start the development server:
 npm start
 
 
-
-👉 http://localhost:3000
