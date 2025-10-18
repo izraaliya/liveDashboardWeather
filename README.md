@@ -27,5 +27,8 @@ This will install everything listed in your package.json.
 To start the development server:
 
 npm start
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/2d2fb801-fc1c-46a4-8c35-190f9f59d1b6" />
+<img width="1907" height="983" alt="image" src="https://github.com/user-attachments/assets/4aabeb48-7d06-4b7a-9c20-6eb05d01075b" />
+
 
 
